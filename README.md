@@ -1,7 +1,7 @@
 <h1>Fokus</h1>
 
 <h2>Sobre</h2>
- <p>Projeto sobre tempo de foco</p>
+ <p>Projeto sobre tempo de foco utilizando JavaScript</p>
  <a href = "https://fokus-three-puce.vercel.app">Clique aqui para acessar o projeto</a>
 <br><br><br> 
 ##Tecnologias
